@@ -1,1 +1,2 @@
 # DialogFragment
+popupwindow中若有viewpager使用fragment会出问题，此时可使用DialogFragment.
